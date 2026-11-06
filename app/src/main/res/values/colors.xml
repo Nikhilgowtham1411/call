@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="call_primary">#6335A5</color>
+    <color name="call_secondary">#DCC5FF</color>
+    <color name="call_background">#FFF9F5</color>
+    <color name="call_icon_background">#6335A5</color>
+</resources>

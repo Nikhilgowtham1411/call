@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call</string>
+    <string name="channel_incoming_name">Incoming calls</string>
+    <string name="channel_incoming_desc">Shows incoming calls full screen</string>
+    <string name="channel_ongoing_name">Ongoing calls</string>
+</resources>
